@@ -16,3 +16,7 @@ function potencia(a, b) {
 function excluir(a) {
   return "a excluído";
 }
+
+function divisao(a, b) {
+  return a / b;
+}
